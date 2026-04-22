@@ -86,11 +86,6 @@ PRIMETRADE/
 
 ---
 
-## 🌐 Live Dashboard
-
-👉 (Paste your deployed link here)
-
----
 
 ## 🚀 How to Run
 

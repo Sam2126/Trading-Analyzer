@@ -71,19 +71,6 @@ The goal is to uncover behavioral patterns, evaluate trading outcomes across sen
 
 ---
 
-
-## 📈 Strategic Recommendations
-
-| Sentiment Zone | Strategy                    |
-| -------------- | --------------------------- |
-| Extreme Fear   | Low leverage, cautious long |
-| Fear           | Wait for confirmation       |
-| Neutral        | Scalping opportunities      |
-| Greed          | Trend-following (long bias) |
-| Extreme Greed  | Profit booking / short bias |
-
----
-
 ## 🖥️ Project Files
 
 ```
